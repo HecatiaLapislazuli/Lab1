@@ -29,3 +29,4 @@ public class Main {
         return RandomWalk.randomWalk();
     }
 }
+modified7
